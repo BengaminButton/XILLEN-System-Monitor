@@ -1,0 +1,30 @@
+{
+  "name": "xillen-system-monitor",
+  "version": "2.0.0",
+  "description": "Professional system monitoring tool by Xillen Killers",
+  "main": "system_monitor.js",
+  "scripts": {
+    "start": "node system_monitor.js",
+    "monitor": "node system_monitor.js"
+  },
+  "keywords": [
+    "system",
+    "monitor",
+    "cpu",
+    "memory",
+    "network",
+    "xillen",
+    "cybersecurity"
+  ],
+  "author": "@Bengamin_Button",
+  "contributors": ["@XillenAdapter"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BengaminButton/xillen-system-monitor"
+  }
+}
+
